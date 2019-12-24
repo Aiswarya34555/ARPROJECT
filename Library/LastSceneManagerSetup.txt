@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARPortal/Scenes/AR_CorePortal.unity
+  isLoaded: 1
+  isActive: 1
